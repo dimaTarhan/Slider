@@ -1,5 +1,5 @@
 # Cats Slider
-This is an example of a simple [Slider](https://dimatarhan.github.io/slider/).
+This is an example of a simple ###[Slider](https://dimatarhan.github.io/slider/).
 ## Technologies
 + HTML
 + CSS
